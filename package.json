@@ -6,6 +6,7 @@
   "author": "Osho Giri <osho.giri@zendesk.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "3.4.1"
+    "jquery": "3.4.1",
+    "serialize-javascript": "3.0.0"
   }
 }
